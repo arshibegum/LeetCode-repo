@@ -6,4 +6,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/arshibegum/LeetCode-repo/tree/master/0178-rank-scores) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/arshibegum/LeetCode-repo/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1908-recyclable-and-low-fat-products](https://github.com/arshibegum/LeetCode-repo/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

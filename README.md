@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/arshibegum/LeetCode-repo/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/arshibegum/LeetCode-repo/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/arshibegum/LeetCode-repo/tree/master/0620-not-boring-movies) |
+| [1161-project-employees-i](https://github.com/arshibegum/LeetCode-repo/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/arshibegum/LeetCode-repo/tree/master/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/arshibegum/LeetCode-repo/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/arshibegum/LeetCode-repo/tree/master/1390-average-selling-price) |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/arshibegum/LeetCode-repo/tree/master/0178-rank-scores) |
+| [0185-department-top-three-salaries](https://github.com/arshibegum/LeetCode-repo/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/arshibegum/LeetCode-repo/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/arshibegum/LeetCode-repo/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/arshibegum/LeetCode-repo/tree/master/0595-big-countries) |

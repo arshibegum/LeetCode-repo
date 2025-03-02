@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/arshibegum/LeetCode-repo/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/arshibegum/LeetCode-repo/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/arshibegum/LeetCode-repo/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arshibegum/LeetCode-repo/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/arshibegum/LeetCode-repo/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/arshibegum/LeetCode-repo/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arshibegum/LeetCode-repo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arshibegum/LeetCode-repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arshibegum/LeetCode-repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/arshibegum/LeetCode-repo/tree/master/0066-plus-one) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/arshibegum/LeetCode-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |

@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arshibegum/LeetCode-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arshibegum/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arshibegum/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

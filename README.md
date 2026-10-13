@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arshibegum/LeetCode-repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arshibegum/LeetCode-repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/arshibegum/LeetCode-repo/tree/master/0066-plus-one) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arshibegum/LeetCode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arshibegum/LeetCode-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
@@ -80,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/arshibegum/LeetCode-repo/tree/master/0151-reverse-words-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arshibegum/LeetCode-repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arshibegum/LeetCode-repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arshibegum/LeetCode-repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arshibegum/LeetCode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
